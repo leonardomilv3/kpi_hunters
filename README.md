@@ -1,4 +1,4 @@
-# Pré-Curso Rockseat 
+# Pré-Curso Rocketseat 
 
 &emsp;&emsp;Repositório destinado para anotações do Pré-Curso da Rockseat.  
 
@@ -14,6 +14,13 @@
 1. [Tipos de Aplicações WEB](conectar/TiposAplicacoesWEB.md)
 
 ## Fundamentar 
+
+&emsp;&emsp;Anotações do conteúdo Fundamentar. 
+
+1. Quia Estrelar de HTML
+1.1 [Conceitos](fundamentar/GuiaEstrelarHTML/Conceitos.md)
+1.2 
+2. 
 
 ## Especializar
 

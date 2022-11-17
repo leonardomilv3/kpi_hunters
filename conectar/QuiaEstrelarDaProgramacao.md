@@ -25,7 +25,7 @@
 
 ## Como funciona a WEB?
 
-1. Digita uma URL https://rockseat.com.br
+1. Digita uma URL rocketseat.com.br
 
 - **HTTP**: HyperText Transfer Protocol.
     - Função: trocar mensagem entre computadores.
