@@ -1,4 +1,4 @@
-# Pré-Curso Rocketseat 
+# 🚀 Pré-Curso Rocketseat 
 
 &emsp;&emsp;Repositório destinado para anotações do Pré-Curso da Rockseat.  
 
@@ -18,9 +18,7 @@
 &emsp;&emsp;Anotações do conteúdo Fundamentar. 
 
 1. Quia Estrelar de HTML
-1.1 [Conceitos](fundamentar/GuiaEstrelarHTML/Conceitos.md)
-1.2 
-2. 
+    1. [Conceitos](fundamentar/GuiaEstrelarHTML/Conceitos.md)
 
 ## Especializar
 
