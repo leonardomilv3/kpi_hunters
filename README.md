@@ -1,4 +1,4 @@
-# 🚀 Pré-Curso Rocketseat 
+# 🚀 Pré-Curso Rocketseat oferecido pelo [https://app.skule.com.br/](https://app.skule.com.br/)
 
 &emsp;&emsp;Repositório destinado para anotações do Pré-Curso da Rockseat.  
 
